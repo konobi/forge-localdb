@@ -1,0 +1,12 @@
+{
+  "name": "forge-localdb",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ScottM",
+  "license": "MIT",
+  "dependencies": ["async", "node-lmdb" ]
+}
